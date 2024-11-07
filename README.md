@@ -66,7 +66,8 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesseecity&show_icons=true&locale=en" alt="yesseecity" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yesseecity&show_icons=true&locale=en" alt="yesseecity" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesseecity&show_icons=true&locale=en&layout=compact" alt="yesseecity" />
 </p>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesseecity" alt="yesseecity" /></a>
