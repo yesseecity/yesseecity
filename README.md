@@ -69,7 +69,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesseecity&show_icons=true&locale=en&layout=compact" alt="yesseecity" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yesseecity&show_icons=true&locale=en" alt="yesseecity" />
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=yesseecity" alt="GitHub Streak" /></a>
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yesseecity" alt="github-readme-streak-stats" />
 </p>
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesseecity" alt="yesseecity" /></a>
