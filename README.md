@@ -75,5 +75,7 @@
 <hr>
 
 <p>
-  我的NestJS Project <a href="https://github.com/YCITC/rc-box-iot-server">YCITC/rc-box-iot-server</a>
+  My NestJS Project <a href="https://github.com/YCITC/rc-box-iot-server">YCITC/rc-box-iot-server</a>
+  <br>
+  My React Project <a href="https://github.com/YCITC/rc-box-web-react">YCITC/rc-box-web-react</a>
 </p>
