@@ -1,3 +1,8 @@
+<style>
+  .tools {
+    float: left
+  }
+</style>
 <h1>Hi 👋, I'm Tid</h1>
 <p>A passionate full stack developer from Taiwan.</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -67,10 +72,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesseecity&show_icons=true&locale=en&layout=compact" alt="yesseecity" />
 </p>
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=yesseecity" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yesseecity" alt="GitHub Streak" /></a>
 </p>
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesseecity" alt="yesseecity" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesseecity&theme=flat" alt="yesseecity" /></a>
 </p>
 <hr>
 
