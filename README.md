@@ -1,8 +1,4 @@
-<style>
-  .tools {
-    float: left
-  }
-</style>
+
 <h1>Hi 👋, I'm Tid</h1>
 <p>A passionate full stack developer from Taiwan.</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -29,7 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40" />
+    <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40" />
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
